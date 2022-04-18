@@ -31,4 +31,4 @@ project
     └───xxx(英雄名)
     	│   xxx(皮肤名).jpg
     	│   xxx(英雄名)-技能介绍.txt
-```# scrapy_wangzhe_skins
+```
